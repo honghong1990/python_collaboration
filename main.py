@@ -32,23 +32,23 @@ import colleague30
 
 colleague.say_hello("zhaow9", "Wei Zhao")
 
-colleague1.say_hello("", "")
+colleague1.say_hello("qht", "Haitao Qi")
 
-colleague2.say_hello("", "")
+colleague2.say_hello("I'm Yuemei Qin.", "Nice to meet you.")
 
-colleague3.say_hello("", "")
+colleague3.say_hello("yd", "yd")
 
-colleague4.say_hello("", "")
+colleague4.say_hello("yihuo", "YI HUO")
 
-colleague5.say_hello("", "")
+colleague5.say_hello("Zhang", "5")
 
-colleague6.say_hello("", "")
+colleague6.say_hello("mengf6", "Fanwang Meng")
 
-colleague7.say_hello("", "")
+colleague7.say_hello("zhuh18", "Huawei Zhu")
 
-colleague8.say_hello("", "")
+colleague8.say_hello("zhangy08", "Yile Zhang")
 
-colleague9.say_hello("", "")
+colleague9.say_hello("XUM20", "MIN XU")
 
 colleague10.say_hello("", "")
 
